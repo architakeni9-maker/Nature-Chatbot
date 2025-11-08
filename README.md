@@ -1,5 +1,5 @@
 # Nature-Chatbot
-Interactive chatbot that helps identify birds and plants using AI-powered image analysis and provides detailed information about them.
+An interactive chatbot that helps identify birds and plants using AI-powered image analysis and provides detailed information about them.
 
 I've created an interactive Nature Identifier chatbot for you! Here's what it can do:
 Features:
@@ -14,8 +14,6 @@ Natural habitat and locations
 Behavior/growing conditions
 Life expectancy
 Fun facts
-
-
 
 How to use it:
 
